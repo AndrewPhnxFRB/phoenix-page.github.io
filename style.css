@@ -1,0 +1,51 @@
+body {
+    background-image: url("fire.jpeg");
+    background-size: 1500px;
+}
+
+.pageBody {
+    width: 75%;
+    padding: 10px;
+    margin: 50px auto 50px auto;
+    background-color: orange;
+    text-align: justify;
+    max-width: 800px;
+    border: 5px solid orangered;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 400px;
+    max-width: 500px;
+    min-width: 200px;
+    margin: auto;
+    border: 1px solid orangered;
+    border-radius: 10px;
+}
+/*
+td {
+    border-bottom: 2px solid orangered;
+    border-top: 2px solid orangered;
+}
+
+.firtd {
+    border-left: 2px solid orangered;
+}
+*/
+.sectd {
+    text-align: right;
+    /*border-right: 2px solid orangered;*/
+}
+
+.urimg {
+    float: right;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+    max-width: 200px;
+    min-width: 75px;
+}
